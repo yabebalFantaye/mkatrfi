@@ -1,0 +1,36 @@
+7am24Nov18
+
+time (in sec): 75.608770367; file:  5.5G	/data/KAT7_data/aoflagged/flagged/1354878016_1822.full_pol.ms
+time (in sec): 11.023352205; file:  1.9G	/data/KAT7_data/aoflagged/flagged/1365253712.full_pol.calibrated.ms
+time (in sec): 18.986026862; file:  962M	/data/KAT7_data/aoflagged/flagged/1365275227.full_pol.ms
+time (in sec): 59.718444138; file:  3.3G	/data/KAT7_data/aoflagged/flagged/1375091767.full_pol.ms
+time (in sec): 6.304789862; file:  567M	/data/KAT7_data/aoflagged/flagged/1416427899.full_pol.ms
+time (in sec): .813199512; file:  17M	/data/KAT7_data/aoflagged/flagged/ACO3667_05MAR13.ms
+time (in sec): 32.194316914; file:  268M	/data/KAT7_data/aoflagged/flagged/PKS1510-089-CONCAT.ms
+time (in sec): .712004809; file:  22M	/data/KAT7_data/aoflagged/flagged/RCS_231953_2DAYS_vis.ms
+time (in sec): .237085508; file:  6.0M	/data/KAT7_data/aoflagged/flagged/SRC10.ms
+time (in sec): .222411171; file:  5.9M	/data/KAT7_data/aoflagged/flagged/SRC11.ms
+time (in sec): .237116040; file:  5.9M	/data/KAT7_data/aoflagged/flagged/SRC12.ms
+time (in sec): .183860281; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC13.ms
+time (in sec): .206159973; file:  4.3M	/data/KAT7_data/aoflagged/flagged/SRC14.ms
+time (in sec): .234382428; file:  5.9M	/data/KAT7_data/aoflagged/flagged/SRC15.ms
+time (in sec): .220573891; file:  4.6M	/data/KAT7_data/aoflagged/flagged/SRC16.ms
+time (in sec): .191371025; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC17.ms
+time (in sec): .184122129; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC18.ms
+time (in sec): .195264858; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC19.ms
+time (in sec): .189060909; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC20.ms
+time (in sec): .190561820; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC21.ms
+time (in sec): .190798080; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC22.ms
+time (in sec): .186990769; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC23.ms
+time (in sec): .205253078; file:  4.3M	/data/KAT7_data/aoflagged/flagged/SRC24.ms
+time (in sec): .187216541; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC25.ms
+time (in sec): .193566099; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC26.ms
+time (in sec): .194508270; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC27.ms
+time (in sec): .190073655; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC28.ms
+time (in sec): .190976846; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC29.ms
+time (in sec): .195882753; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC30.ms
+time (in sec): .190450455; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC31.ms
+time (in sec): .190349668; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC32.ms
+time (in sec): .192376126; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC33.ms
+time (in sec): .183321417; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC34.ms
+time (in sec): .188262762; file:  3.6M	/data/KAT7_data/aoflagged/flagged/SRC35.ms

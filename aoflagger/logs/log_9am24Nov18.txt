@@ -1,0 +1,254 @@
+
+-------------
+    Elapsed time for processing 2 files:  7.945712810"
+    Elapsed time per file: 3.97285640500000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 2 files:  .895749489"
+    Elapsed time per file: .44787474450000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 2 files:  8.778327407"
+    Elapsed time per file: 4.38916370350000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 2 files:  .918365303"
+    Elapsed time per file: .45918265150000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 2 files:  8.342110371"
+    Elapsed time per file: 4.17105518550000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  .526793968"
+    Elapsed time per file: .52679396800000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  .934247719"
+    Elapsed time per file: .93424771900000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  5.672536204"
+    Elapsed time per file: 5.67253620400000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  1.317880415"
+    Elapsed time per file: 1.31788041500000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  5.431183451"
+    Elapsed time per file: 5.43118345100000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  .892995913"
+    Elapsed time per file: .89299591300000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  5.355686298"
+    Elapsed time per file: 5.35568629800000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  53.476465409"
+    Elapsed time per file: 53.47646540900000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  40.023486199"
+    Elapsed time per file: 40.02348619900000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  3.127271337"
+    Elapsed time per file: 3.12727133700000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  3.146815196"
+    Elapsed time per file: 3.14681519600000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  3.047084641"
+    Elapsed time per file: 3.04708464100000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  5.610688577"
+    Elapsed time per file: 5.61068857700000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  12.127311701"
+    Elapsed time per file: 12.12731170100000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  1.647032511"
+    Elapsed time per file: 1.64703251100000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  5.368984565"
+    Elapsed time per file: 5.36898456500000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  .726407579"
+    Elapsed time per file: .72640757900000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  .504648670"
+    Elapsed time per file: .50464867000000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  2.724571950"
+    Elapsed time per file: 2.72457195000000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  3.154201350"
+    Elapsed time per file: 3.15420135000000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  .891285818"
+    Elapsed time per file: .89128581800000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  3.019638571"
+    Elapsed time per file: 3.01963857100000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  .532335534"
+    Elapsed time per file: .53233553400000000000"
+------------- 
+
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Nov-24 09:55:55.421587
+Polarization statistics: XX: 7.8%, XY: 8.2%, YX: 8.2%, YY: 8.7%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Nov-24 09:56:33.499174
+Polarization statistics: XX: 7.8%, XY: 8.2%, YX: 8.2%, YY: 8.7%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Nov-24 09:57:21.863544
+Polarization statistics: XX: 7.8%, XY: 8.2%, YX: 8.2%, YY: 8.7%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Nov-24 09:58:14.751843
+Polarization statistics: XX: 7.8%, XY: 8.2%, YX: 8.2%, YY: 8.7%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Nov-24 09:59:00.957669
+Polarization statistics: XX: 7.8%, XY: 8.2%, YX: 8.2%, YY: 8.7%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Nov-24 09:59:35.332413
+Polarization statistics: XX: 7.8%, XY: 8.2%, YX: 8.2%, YY: 8.7%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Nov-24 10:00:24.645727
+Polarization statistics: XX: 7.8%, XY: 8.2%, YX: 8.2%, YY: 8.7%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Nov-24 10:01:13.053983
+Polarization statistics: XX: 7.8%, XY: 8.2%, YX: 8.2%, YY: 8.7%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Nov-24 10:01:58.983260
+Polarization statistics: XX: 7.8%, XY: 8.2%, YX: 8.2%, YY: 8.7%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Nov-24 10:02:50.720635
+Polarization statistics: XX: 7.8%, XY: 8.2%, YX: 8.2%, YY: 8.7%
+
+-------------
+    Elapsed time for processing 10 files:  470.959963195"
+    Elapsed time per file: 47.09599631950000000000"
+------------- 
+

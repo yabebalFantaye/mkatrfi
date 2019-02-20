@@ -1,0 +1,6 @@
+
+-------------
+    Elapsed time for processing 1 files:  730.101387478"
+    Elapsed time per file: 730.10138747800000000000"
+------------- 
+

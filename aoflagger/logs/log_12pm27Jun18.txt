@@ -1,0 +1,30 @@
+
+-------------
+    Elapsed time for processing 1 files:  .016686929"
+    Elapsed time per file: .01668692900000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  .016493786"
+    Elapsed time per file: .01649378600000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  .013855146"
+    Elapsed time per file: .01385514600000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 30 files:  .355155399"
+    Elapsed time per file: .01183851330000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  .013946780"
+    Elapsed time per file: .01394678000000000000"
+------------- 
+

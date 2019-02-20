@@ -1,0 +1,88 @@
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Modified single-baseline strategy so it will execute strategy on all baselines and write flags.
+Starting strategy on 2018-Jul-03 17:38:55.165629
+An exception occured during execution of the strategy!
+Your set might not be fully flagged. Exception was:
+CFITSIO reported error when performing IO on file '/data/hide_sims_test/calib_play/TEST_MP_PXX_*.fits':could not open the named file (failed to find or open the following file: (ffopen)/data/hide_sims_test/calib_play/TEST_MP_PXX_*.fits)
+No polarization statistics were collected.
+
+-------------
+    Elapsed time for processing 1 files:  .052533690"
+    Elapsed time per file: .05253369000000000000"
+------------- 
+
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Modified single-baseline strategy so it will execute strategy on all baselines and write flags.
+Starting strategy on 2018-Jul-03 17:44:00.464272
+An exception occured during execution of the strategy!
+Your set might not be fully flagged. Exception was:
+CFITSIO reported error when performing IO on file '/data/hide_sims_test/calib_play/TEST_MP_PXX_*.fits':could not open the named file (failed to find or open the following file: (ffopen)/data/hide_sims_test/calib_play/TEST_MP_PXX_*.fits)
+No polarization statistics were collected.
+
+-------------
+    Elapsed time for processing 1 files:  .068875234"
+    Elapsed time per file: .06887523400000000000"
+------------- 
+
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Modified single-baseline strategy so it will execute strategy on all baselines and write flags.
+Starting strategy on 2018-Jul-03 17:59:44.568448
+Flagged in autocorrelations of antenna Arecibo: 100%
+Summary of RFI per channel: (990 Hz - 1,258 Hz)
+Channel   1-  8: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel   9- 16: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel  17- 24: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel  25- 32: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel  33- 40: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel  41- 48: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel  49- 56: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel  57- 64: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel  65- 72: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel  73- 80: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel  81- 88: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel  89- 96: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel  97-104: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 105-112: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 113-120: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 121-128: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 129-136: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 137-144: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 145-152: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 153-160: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 161-168: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 169-176: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 177-184: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 185-192: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 193-200: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 201-208: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 209-216: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 217-224: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 225-232: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 233-240: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 241-248: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 249-256: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 257-264: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 265-272: 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0% 100.0%
+Channel 273-275: 100.0% 100.0% 100.0%
+Polarization statistics: Stokes I: 0%
+
+-------------
+    Elapsed time for processing 1 files:  .471929304"
+    Elapsed time per file: .47192930400000000000"
+------------- 
+

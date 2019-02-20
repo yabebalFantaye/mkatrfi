@@ -1,0 +1,584 @@
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:03:31.166534
+Polarization statistics: XX: 4.2%, XY: 1.5%, YX: 1.3%, YY: 3.3%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:03:32.230436
+Polarization statistics: XX: 5.4%, XY: 2.7%, YX: 2.6%, YY: 5.3%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:03:32.801422
+Polarization statistics: XX: 18.8%, XY: 2.1%, YX: 2.3%, YY: 19.7%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:03:33.668141
+Polarization statistics: XX: 17.7%, XY: 17%, YX: 17.6%, YY: 19.9%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:03:34.261557
+Polarization statistics: XX: 11.9%, XY: 4.2%, YX: 3.4%, YY: 10.8%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:03:34.673036
+Polarization statistics: XX: 22.5%, XY: 6.2%, YX: 5.9%, YY: 21.8%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:03:35.223885
+Polarization statistics: XX: 15.3%, XY: 6.8%, YX: 7.6%, YY: 15.4%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:03:35.804831
+Polarization statistics: XX: 16.2%, XY: 9.8%, YX: 9.9%, YY: 16.6%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:03:36.310523
+Polarization statistics: XX: 3.6%, XY: 2.8%, YX: 2.7%, YY: 3.5%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:03:56.512594
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:12.476249
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:49.998002
+Polarization statistics: XX: 18%, XY: 1.8%, YX: 3.1%, YY: 19%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:50.560081
+Polarization statistics: XX: 17.9%, XY: 2.5%, YX: 3.1%, YY: 19.3%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:50.867828
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:51.120147
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:51.323126
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:51.509784
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:51.679490
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:52.236567
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:52.435687
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:52.616876
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:52.771771
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:52.934397
+Polarization statistics: XX: 9.5%, XY: 8.5%, YX: 8.6%, YY: 8.7%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:53.745625
+Polarization statistics: XX: 9.3%, XY: 7.8%, YX: 8.4%, YY: 10.5%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:54.220849
+Polarization statistics: XX: 10.9%, XY: 8.5%, YX: 8.4%, YY: 10.6%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:55.149464
+Polarization statistics: XX: 11%, XY: 1.7%, YX: 1.6%, YY: 11.1%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:56.147654
+Polarization statistics: XX: 4.1%, XY: 3.9%, YX: 3.8%, YY: 3.9%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:56.876212
+Polarization statistics: XX: 15.5%, XY: 6.4%, YX: 6.7%, YY: 14.3%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:57.375272
+Polarization statistics: XX: 17%, XY: 4.8%, YX: 5.6%, YY: 18.5%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:57.761099
+Polarization statistics: XX: 14.1%, XY: 3.7%, YX: 4.6%, YY: 15.5%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:58.463719
+Polarization statistics: XX: 10.3%, XY: 1.9%, YX: 2.4%, YY: 10.3%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:59.006981
+Polarization statistics: XX: 9.9%, XY: 1.1%, YX: 1.2%, YY: 10.8%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:05:59.951670
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:06.891362
+Polarization statistics: XX: 15%, XY: 15%, YX: 15%, YY: 15.9%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:07.579158
+Polarization statistics: XX: 7.2%, XY: 2.9%, YX: 2.9%, YY: 8.6%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:08.418418
+Polarization statistics: XX: 21.9%, XY: 22.4%, YX: 22.1%, YY: 21.8%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:08.942588
+Polarization statistics: XX: 23.5%, XY: 22.5%, YX: 22.9%, YY: 23.7%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:09.801203
+Polarization statistics: XX: 0.97%, XY: 0.67%, YX: 0.62%, YY: 1.1%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:13.993449
+Polarization statistics: XX: 13.3%, XY: 8.9%, YX: 9.1%, YY: 12.5%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:15.145463
+Polarization statistics: XX: 1.2%, XY: 2.5%, YX: 2.7%, YY: 1.4%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:15.900470
+Polarization statistics: XX: 12.4%, XY: 13.7%, YX: 14%, YY: 12.5%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:16.719494
+Polarization statistics: XX: 17.1%, XY: 11.8%, YX: 12.1%, YY: 19.2%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:17.295128
+Polarization statistics: XX: 6.4%, XY: 1.7%, YX: 1.8%, YY: 6.2%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:39.483556
+Polarization statistics: XX: 31.1%, XY: 9.7%, YX: 10.8%, YY: 32.9%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:39.970282
+Polarization statistics: XX: 15.5%, XY: 8.7%, YX: 8.2%, YY: 17.3%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:40.937041
+Polarization statistics: XX: 0.81%, XY: 0.84%, YX: 1.5%, YY: 0.85%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:41.144339
+Polarization statistics: XX: 1.6%, XY: 1.1%, YX: 1.8%, YY: 1.1%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:41.349358
+Polarization statistics: XX: 1.5%, XY: 1%, YX: 1.6%, YY: 1.1%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:41.551064
+Polarization statistics: XX: 0.77%, XY: 0.67%, YX: 0.32%, YY: 0.6%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:41.721702
+Polarization statistics: XX: 4.4%, XY: 1.3%, YX: 1.6%, YY: 4.7%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:41.904357
+Polarization statistics: XX: 0.49%, XY: 0.95%, YX: 1.3%, YY: 0.32%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:42.109109
+Polarization statistics: XX: 1.4%, XY: 1.7%, YX: 1.7%, YY: 1.3%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:42.294393
+Polarization statistics: XX: 5.5%, XY: 0.33%, YX: 0.36%, YY: 4.9%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:42.465729
+Polarization statistics: XX: 0.68%, XY: 0.59%, YX: 0.32%, YY: 1.1%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:42.645604
+Polarization statistics: XX: 3.7%, XY: 0.35%, YX: 0.43%, YY: 3.2%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:42.820270
+Polarization statistics: XX: 0.9%, XY: 0.53%, YX: 0.28%, YY: 0.51%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:42.997081
+Polarization statistics: XX: 0.88%, XY: 0.4%, YX: 0.23%, YY: 0.66%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:43.174516
+Polarization statistics: XX: 1.4%, XY: 0.71%, YX: 0.17%, YY: 1.7%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:43.345487
+Polarization statistics: XX: 1.4%, XY: 1.8%, YX: 1.7%, YY: 1.6%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:43.517212
+Polarization statistics: XX: 7.5%, XY: 1.4%, YX: 1.1%, YY: 7.7%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:43.699147
+Polarization statistics: XX: 2%, XY: 0.63%, YX: 0.36%, YY: 1.3%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:43.872403
+Polarization statistics: XX: 8%, XY: 2%, YX: 2.4%, YY: 8.7%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:44.045572
+Polarization statistics: XX: 6.2%, XY: 0.43%, YX: 0.79%, YY: 6.3%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:44.226747
+Polarization statistics: XX: 5.4%, XY: 0.46%, YX: 1.1%, YY: 5.8%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:44.407986
+Polarization statistics: XX: 4.3%, XY: 1.2%, YX: 0.82%, YY: 4%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:44.626951
+Polarization statistics: XX: 0.71%, XY: 0.95%, YX: 1.1%, YY: 0.53%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:44.818373
+Polarization statistics: XX: 2.3%, XY: 1.1%, YX: 2%, YY: 2.2%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:44.991448
+Polarization statistics: XX: 0.71%, XY: 0.76%, YX: 1.2%, YY: 0.37%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:45.166284
+Polarization statistics: XX: 1.5%, XY: 1.2%, YX: 1.3%, YY: 1.1%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:45.340402
+Polarization statistics: XX: 1.3%, XY: 1.1%, YX: 2.2%, YY: 1.3%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:07:45.519581
+Polarization statistics: XX: 1.4%, XY: 0.75%, YX: 2.4%, YY: 1.5%
+
+-------------
+    Elapsed time for processing 71 files:  256.982358079"
+    Elapsed time per file: 3.61946983209859154929"
+------------- 
+
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:24:04.961670
+Polarization statistics: XX: 3.6%, XY: 2.8%, YX: 2.7%, YY: 3.5%
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-24 12:24:25.901190
+Polarization statistics: XX: 22.9%, XY: 24.7%, YX: 24.7%, YY: 25%
+
+-------------
+    Elapsed time for processing 2 files:  96.259278314"
+    Elapsed time per file: 48.12963915700000000000"
+------------- 
+

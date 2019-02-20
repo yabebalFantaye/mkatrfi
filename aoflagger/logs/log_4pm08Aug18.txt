@@ -1,0 +1,126 @@
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Aug-08 16:00:24.188077
+Polarization statistics: XX: 14.9%, XY: 16.5%, YX: 16.4%, YY: 16.7%
+
+-------------
+    Elapsed time for processing 1 files:  42.984137261"
+    Elapsed time per file: 42.98413726100000000000"
+------------- 
+
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Aug-08 16:07:54.781451
+Polarization statistics: XX: 13.5%, XY: 14.7%, YX: 14.7%, YY: 15.1%
+
+-------------
+    Elapsed time for processing 1 files:  43.550848621"
+    Elapsed time per file: 43.55084862100000000000"
+------------- 
+
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Aug-08 16:21:41.032281
+Polarization statistics: XX: 13.5%, XY: 14.7%, YX: 14.7%, YY: 15.1%
+
+-------------
+    Elapsed time for processing 1 files:  41.352740662"
+    Elapsed time per file: 41.35274066200000000000"
+------------- 
+
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Aug-08 16:26:04.974742
+Polarization statistics: XX: 40.6%, XY: 26.2%, YX: 27.4%, YY: 40.7%
+
+-------------
+    Elapsed time for processing 1 files:  40.108431262"
+    Elapsed time per file: 40.10843126200000000000"
+------------- 
+
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Aug-08 16:34:10.149323
+Polarization statistics: XX: 7.8%, XY: 8.2%, YX: 8.2%, YY: 8.7%
+
+-------------
+    Elapsed time for processing 1 files:  54.032559472"
+    Elapsed time per file: 54.03255947200000000000"
+------------- 
+
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Aug-08 16:40:32.775474
+Polarization statistics: XX: 7.8%, XY: 8.2%, YX: 8.2%, YY: 8.7%
+
+-------------
+    Elapsed time for processing 1 files:  31.675622009"
+    Elapsed time per file: 31.67562200900000000000"
+------------- 
+
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Aug-08 16:45:06.477148
+Polarization statistics: XX: 5.6%, XY: 6.2%, YX: 6.2%, YY: 6.2%
+
+-------------
+    Elapsed time for processing 1 files:  35.052250731"
+    Elapsed time per file: 35.05225073100000000000"
+------------- 
+
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Aug-08 16:50:08.942739
+Polarization statistics: XX: 5.6%, XY: 6.2%, YX: 6.2%, YY: 6.2%
+
+-------------
+    Elapsed time for processing 1 files:  22.156781944"
+    Elapsed time per file: 22.15678194400000000000"
+------------- 
+
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Aug-08 16:53:09.855730
+Polarization statistics: XX: 0.3%, XY: 0.23%, YX: 0.23%, YY: 0.19%
+
+-------------
+    Elapsed time for processing 1 files:  43.002674571"
+    Elapsed time per file: 43.00267457100000000000"
+------------- 
+

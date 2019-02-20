@@ -1,0 +1,14 @@
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Jul-22 18:12:28.464376
+Polarization statistics: XX: 0.82%, XY: 1.4%, YX: 1.3%, YY: 0.86%
+
+-------------
+    Elapsed time for processing 1 files:  14.876240128"
+    Elapsed time per file: 14.87624012800000000000"
+------------- 
+

@@ -1,0 +1,25 @@
+AOFlagger 2.9.0 (2016-12-20) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+ERROR: Reading strategy file "/xhome/aoflagger/arecibo_like_strategy.rfis" failed! This
+might be caused by a change in the file format of the strategy file after you
+created the strategy file.
+Try recreating the file.
+
+The thrown exception was:
+This file requires a newer software version
+
+-------------
+    Elapsed time for processing 1 files:  .015561351"
+    Elapsed time per file: .01556135100000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  .014218413"
+    Elapsed time per file: .01421841300000000000"
+------------- 
+

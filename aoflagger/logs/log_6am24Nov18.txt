@@ -1,0 +1,17 @@
+AOFlagger 2.10.0 (2018-02-06) command line application
+This program will execute an RFI strategy as can be created with the RFI gui
+and executes it on one or several observations.
+
+Author: André Offringa (offringa@gmail.com)
+
+Starting strategy on 2018-Nov-24 06:58:02.896766
+An exception occured during execution of the strategy!
+Your set might not be fully flagged. Exception was:
+Table /data/KAT7_data/aoflagged/flagged/*.ms does not exist
+No polarization statistics were collected.
+
+-------------
+    Elapsed time for processing 1 files:  2.713591195"
+    Elapsed time per file: 2.71359119500000000000"
+------------- 
+

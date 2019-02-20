@@ -1,0 +1,12 @@
+9am24Nov18
+
+time (in sec): 35.191589663; file:  3.3G	/data/1375091767.full_pol.ms
+time (in sec): 45.509124297; file:  3.3G	/data/1375091767.full_pol.ms
+time (in sec): 49.952258861; file:  3.3G	/data/1375091767.full_pol.ms
+time (in sec): 43.229022224; file:  3.3G	/data/1375091767.full_pol.ms
+time (in sec): 31.406510003; file:  3.3G	/data/1375091767.full_pol.ms
+time (in sec): 46.394721414; file:  3.3G	/data/1375091767.full_pol.ms
+time (in sec): 45.445352375; file:  3.3G	/data/1375091767.full_pol.ms
+time (in sec): 43.016464411; file:  3.3G	/data/1375091767.full_pol.ms
+time (in sec): 48.818520326; file:  3.3G	/data/1375091767.full_pol.ms
+time (in sec): 53.127689464; file:  3.3G	/data/1375091767.full_pol.ms

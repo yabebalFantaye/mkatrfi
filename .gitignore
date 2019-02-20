@@ -1,0 +1,17 @@
+# Ignore everything
+*~
+*#
+*.gz
+*.tar
+*.fits
+hide*
+seek*
+tf_unet*
+ivy*
+sde2018
+data
+aimsdnn
+bin
+.*
+*.out
+!.gitignore

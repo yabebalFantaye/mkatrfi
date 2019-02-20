@@ -1,0 +1,19 @@
+E: Attach to pid 22 failed: Operation not permitted
+
+-------------
+    Elapsed time for processing 1 files:  3.398766683"
+    Elapsed time per file: 3.39876668300000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  3.040446350"
+    Elapsed time per file: 3.04044635000000000000"
+------------- 
+
+
+-------------
+    Elapsed time for processing 1 files:  335.252509229"
+    Elapsed time per file: 335.25250922900000000000"
+------------- 
+
